@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>devices-51</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ALL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Primary" transform="translate(-2747.000000, -8104.000000)" stroke="#17A2B8" stroke-width="3.5">
+            <g id="Group-15" transform="translate(200.000000, 200.000000)">
+                <g id="devices-51" transform="translate(2549.000000, 7906.000000)">
+                    <path d="M15,70 L25,70" id="Layer-1" fill="#DBEEF1"></path>
+                    <rect id="Layer-2" fill="#DBEEF1" x="0" y="50" width="100" height="44" rx="10"></rect>
+                    <path d="M70,70.1037942 L87.8373139,70.1037942" id="Layer-3" fill="#DBEEF1"></path>
+                    <path d="M80,50 L80,20" id="Layer-4" fill="#DBEEF1"></path>
+                    <path d="M100,20 C100,8.954305 91.045695,0 80,0 C68.954305,0 60,8.954305 60,20" id="Layer-5"></path>
+                    <path d="M90,20 C90,14.4771525 85.5228475,10 80,10 C74.4771525,10 70,14.4771525 70,20" id="Layer-6"></path>
+                    <path d="M10,94 L20,94 L20,97 C20,98.6568542 18.6513555,100 16.9996703,100 L13.0003297,100 C11.3432934,100 10,98.6534829 10,97 L10,94 Z" id="Layer-7" fill="#DBEEF1"></path>
+                    <path d="M80,94 L90,94 L90,97 C90,98.6568542 88.6513555,100 86.9996703,100 L83.0003297,100 C81.3432934,100 80,98.6534829 80,97 L80,94 Z" id="Layer-8" fill="#DBEEF1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

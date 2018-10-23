@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>interface-31x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ALL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Primary" transform="translate(-843.000000, -198.000000)" stroke="#1989FB" stroke-width="3.5">
+            <g id="Group-15" transform="translate(200.000000, 200.000000)">
+                <g id="interface-3" transform="translate(645.000000, 0.000000)">
+                    <rect id="Layer-1" fill="#DBECFF" x="0" y="0" width="100" height="46" rx="23"></rect>
+                    <rect id="Layer-4" fill="#DBECFF" x="0" y="54" width="100" height="46" rx="23"></rect>
+                    <rect id="Layer-2" fill="#FFFFFF" x="54" y="0" width="46" height="46" rx="23"></rect>
+                    <rect id="Layer-3" fill="#FFFFFF" x="0" y="54" width="46" height="46" rx="23"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

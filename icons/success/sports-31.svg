@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="104px" viewBox="0 0 68 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>sports-31</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ALL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Primary" transform="translate(-226.000000, -9307.000000)" stroke="#28A745" stroke-width="3.5">
+            <g id="Group-15" transform="translate(200.000000, 200.000000)">
+                <g id="sports-31" transform="translate(28.000000, 9109.000000)">
+                    <path d="M32,64 C49.673112,64 64,49.673112 64,32 C64,14.326888 49.673112,0 32,0 C14.326888,0 0,14.326888 0,32 C0,49.673112 14.326888,64 32,64 L32,64 Z" id="Layer-1" fill="#FFFFFF"></path>
+                    <path d="M32,54 C44.1502645,54 54,44.1502645 54,32 C54,19.8497355 44.1502645,10 32,10 C19.8497355,10 10,19.8497355 10,32 C10,44.1502645 19.8497355,54 32,54 L32,54 Z" id="Layer-2" fill="#D8F8DF"></path>
+                    <path d="M51,57.7513584 L51,100 L31,79.848416 L11,100 L11,56.146023 C16.6199818,61.0379146 23.9640748,64 32,64 C39.1143499,64 45.68645,61.6783527 51,57.7513584 L51,57.7513584 Z" id="Layer-3" fill="#D8F8DF"></path>
+                    <path d="M33,23 L33,41" id="Layer-4" fill="#D8F8DF"></path>
+                    <path d="M27.7472964,25.6100001 L32.9434488,22.6100001" id="Layer-5" fill="#D8F8DF"></path>
+                    <path d="M37.8886719,41 L28.1113281,41" id="Layer-6" fill="#D8F8DF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

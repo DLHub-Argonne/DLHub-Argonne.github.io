@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="104px" viewBox="0 0 64 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>multimedia-35</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ALL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Primary" transform="translate(-863.000000, -6581.000000)" stroke="#28A745" stroke-width="3.5">
+            <g id="Group-15" transform="translate(200.000000, 200.000000)">
+                <g id="multimedia-35" transform="translate(665.000000, 6383.000000)">
+                    <rect id="Layer-1" fill="#D8F8DF" x="10" y="0" width="40" height="70" rx="20"></rect>
+                    <path d="M60,49.9854735 C60,66.5580274 46.5721855,79.9927367 30,79.9927367 L30,79.9927367 C13.4314575,79.9927367 0,66.5601111 0,49.9854735" id="Layer-2"></path>
+                    <path d="M30,80 L30,100" id="Layer-3" fill="#D8F8DF"></path>
+                    <path d="M10,100 L50,100" id="Layer-4" fill="#D8F8DF"></path>
+                    <path d="M0,50 L3,50" id="Layer-5" fill="#D8F8DF"></path>
+                    <path d="M57,50 L60,50" id="Layer-6" fill="#D8F8DF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

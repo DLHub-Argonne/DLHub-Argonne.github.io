@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>multimedia-33</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ALL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Primary" transform="translate(-208.000000, -6581.000000)" stroke="#FFC107" stroke-width="3.5">
+            <g id="Group-15" transform="translate(200.000000, 200.000000)">
+                <g id="multimedia-33" transform="translate(10.000000, 6383.000000)">
+                    <circle id="Layer-1" fill="#FFF9E6" cx="50" cy="50" r="50"></circle>
+                    <polygon id="Layer-2" fill="#FFFFFF" points="70.9656218 19.241641 70.9656218 34.4892293 34.9898888 40.5107273 34.9898888 25.2887601"></polygon>
+                    <ellipse id="Layer-3" fill="#FFFFFF" cx="63.4706775" cy="66.44" rx="7.49494439" ry="5.93"></ellipse>
+                    <ellipse id="Layer-4" fill="#FFFFFF" cx="27.4949444" cy="72.37" rx="7.49494439" ry="5.93"></ellipse>
+                    <path d="M34.9898888,40.6431145 L34.9898888,72.37" id="Layer-5" fill="#FFF9E6"></path>
+                    <path d="M70.9656218,35.011 L70.9656218,66.4450242" id="Layer-6" fill="#FFF9E6"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

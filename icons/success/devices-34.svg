@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="105px" height="105px" viewBox="0 0 105 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>devices-34</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ALL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Primary" transform="translate(-1169.000000, -7788.000000)" stroke="#28A745" stroke-width="3.5">
+            <g id="Group-15" transform="translate(200.000000, 200.000000)">
+                <g id="devices-34" transform="translate(1017.000000, 7645.500000) rotate(45.000000) translate(-1017.000000, -7645.500000) translate(993.000000, 7583.000000)">
+                    <rect id="Layer-1" fill="#D8F8DF" x="9.09494702e-13" y="30" width="48" height="50" rx="2"></rect>
+                    <path d="M6,30 L6,3.9992748 C6,1.79053632 7.89744558,1.8189894e-12 10.235519,1.8189894e-12 L37.764481,1.8189894e-12 C40.1036936,1.8189894e-12 42,1.78679466 42,3.9992748 L42,30 L6,30 Z" id="Layer-2" fill="#FFFFFF"></path>
+                    <path d="M16,1.8189894e-12 L16,11" id="Layer-3" fill="#D8F8DF"></path>
+                    <path d="M24,2.27373675e-12 L24,11" id="Layer-4" fill="#D8F8DF"></path>
+                    <path d="M32,2.33058017e-12 L32,11" id="Layer-5" fill="#D8F8DF"></path>
+                    <path d="M20,90 L28,90 L28,121.002107 C28,123.210083 26.2046438,125 24,125 L24,125 C21.790861,125 20,123.216227 20,121.002107 L20,90 Z" id="Layer-6" fill="#D8F8DF"></path>
+                    <rect id="Layer-7" fill="#D8F8DF" x="16" y="80" width="16" height="10"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

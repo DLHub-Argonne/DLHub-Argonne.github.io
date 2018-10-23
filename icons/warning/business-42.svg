@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>business-42</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ALL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Primary" transform="translate(-1165.000000, -12043.000000)" stroke="#FFC107" stroke-width="3.5">
+            <g id="Group-15" transform="translate(200.000000, 200.000000)">
+                <g id="business-42" transform="translate(967.000000, 11845.000000)">
+                    <polygon id="Layer-1" fill="#FFF9E6" points="20 100 79.9685465 100 100 80 100 0 20 0"></polygon>
+                    <polygon id="Layer-2" fill="#FFF9E6" points="80.1138942 100 100.113894 80 80.1138942 80"></polygon>
+                    <rect id="Layer-3" fill="#FFFFFF" x="0" y="0" width="10" height="85" rx="2"></rect>
+                    <rect id="Layer-4" fill="#FFF9E6" x="0.113894156" y="0" width="10" height="20" rx="2"></rect>
+                    <path d="M5.11389416,86 L5.11389416,100" id="Layer-5" fill="#FFF9E6"></path>
+                    <path d="M36.037234,18 L86.1138942,18" id="Layer-6" fill="#FFF9E6"></path>
+                    <path d="M36.037234,28 L86.1138942,28" id="Layer-7" fill="#FFF9E6"></path>
+                    <path d="M36.037234,38 L86.1138942,38" id="Layer-8" fill="#FFF9E6"></path>
+                    <path d="M36.037234,48 L86.1138942,48" id="Layer-9" fill="#FFF9E6"></path>
+                    <path d="M36.037234,58 L66.1138942,58" id="Layer-10" fill="#FFF9E6"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

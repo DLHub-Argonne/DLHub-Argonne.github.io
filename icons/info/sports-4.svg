@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>sports-4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ALL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Primary" transform="translate(-3067.000000, -8404.000000)" stroke="#17A2B8" stroke-width="3.5">
+            <g id="Group-15" transform="translate(200.000000, 200.000000)">
+                <g id="sports-4" transform="translate(2869.000000, 8206.000000)">
+                    <path d="M49.7508831,99.5017662 C77.2275371,99.5017662 99.5017662,77.2275371 99.5017662,49.7508831 C99.5017662,22.2742291 77.2275371,0 49.7508831,0 C22.2742291,0 0,22.2742291 0,49.7508831 C0,77.2275371 22.2742291,99.5017662 49.7508831,99.5017662 Z" id="Layer-1" fill="#DBEEF1"></path>
+                    <circle id="Layer-2" fill="#FFFFFF" cx="50.466774" cy="19.2681234" r="6.95896857"></circle>
+                    <circle id="Layer-3" fill="#FFFFFF" cx="64.3847111" cy="38.3105016" r="6.95896857"></circle>
+                    <circle id="Layer-4" fill="#FFFFFF" cx="36.5488369" cy="38.3105016" r="6.95896857"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

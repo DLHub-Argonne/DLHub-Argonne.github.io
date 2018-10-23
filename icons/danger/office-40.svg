@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>office-40</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ALL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Primary" transform="translate(-1797.000000, -16002.000000)" stroke="#DC3545" stroke-width="3.5" fill="#FFEEEF">
+            <g id="Group-15" transform="translate(200.000000, 200.000000)">
+                <g id="office-40" transform="translate(1599.000000, 15804.000000)">
+                    <path d="M92.2093963,23.185841 C83.336004,9.24694682 67.7478721,0 50,0 C22.3857625,0 0,22.3857625 0,50 C0,77.6142375 22.3857625,100 50,100 L50,100 C77.6142375,100 100,77.6142375 100,50 C100,44.212941 99.0168459,38.65551 97.2084526,33.4856218 C96.7631244,32.2125043 96.2677519,30.9628883 95.7246933,29.739132" id="Layer-1"></path>
+                    <circle id="Layer-2" cx="49.8975916" cy="50" r="7.5"></circle>
+                    <path d="M53,43.1697295 L53,13.0065012 C53,11.3423094 51.6568542,10 50,10 C48.3465171,10 47,11.3460564 47,13.0065012 L47,43.0802296 C47.8914708,42.706492 48.8704168,42.5 49.8975916,42.5 C51.0040386,42.5 52.0545255,42.7395939 53,43.1697295 Z" id="Layer-3"></path>
+                    <path d="M57.4879723,50 L85.3282648,50" id="Layer-4"></path>
+                    <polyline id="Layer-5" points="83.6112699 22.7684038 93.1609655 24.110526 94.5030877 14.5608304"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

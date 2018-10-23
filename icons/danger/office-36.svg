@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>office-36</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ALL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Primary" transform="translate(-525.000000, -16002.000000)" stroke="#DC3545" stroke-width="3.5">
+            <g id="Group-15" transform="translate(200.000000, 200.000000)">
+                <g id="office-36" transform="translate(327.000000, 15804.000000)">
+                    <rect id="Layer-1" fill="#FFEEEF" x="0" y="0" width="45" height="100" rx="3"></rect>
+                    <rect id="Layer-2" fill="#FFEEEF" x="55" y="0" width="45" height="100" rx="3"></rect>
+                    <rect id="Layer-3" fill="#FFFFFF" x="10" y="40" width="25" height="50" rx="1"></rect>
+                    <rect id="Layer-4" fill="#FFFFFF" x="65" y="40" width="25" height="50" rx="1"></rect>
+                    <circle id="Layer-5" fill="#FFFFFF" cx="23" cy="20" r="7"></circle>
+                    <circle id="Layer-6" fill="#FFFFFF" cx="78" cy="20" r="7"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

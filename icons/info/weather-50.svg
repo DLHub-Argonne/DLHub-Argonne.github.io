@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>weather-50</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ALL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Primary" transform="translate(-3697.000000, -4468.000000)" stroke="#17A2B8" stroke-width="3.5">
+            <g id="Group-15" transform="translate(200.000000, 200.000000)">
+                <g id="weather-50" transform="translate(3499.000000, 4270.000000)">
+                    <path d="M9,0 C4.0374,0 0,4.0374 0,9 C0,13.9626 4.0374,18 9,18 C13.9626,18 18,13.9626 18,9 C18,4.0374 13.9626,0 9,0 L9,0 Z" id="Layer-1" fill="#FFFFFF"></path>
+                    <polygon id="Layer-2" fill="#DBEEF1" points="100 16.5693431 100 10 35 10 35 100 41.5217391 100 41.5217391 59.9372993 91.3043478 59.9372993 91.3043478 53.3679562 41.5217391 53.3679562 41.5217391 16.5693431"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>e-commerce-50</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ALL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" fill-opacity="0" stroke-linejoin="round">
+        <g id="Primary" transform="translate(-701.000000, -2282.000000)" stroke="#343A40" stroke-width="3.5" fill="#DBECFF">
+            <g id="e-commerce-50" transform="translate(703.000000, 2284.000000)">
+                <rect id="Layer-1" x="0" y="0" width="100" height="100"></rect>
+                <polygon id="Layer-2" points="10 10 0 0 0 100 100 100 90 90 10 90 10 10"></polygon>
+                <polygon id="Layer-3" points="90 10 100 0 100 100 0 100 10 90 90 90 90 10"></polygon>
+                <polygon id="Layer-4" points="50 100 100 100 90 90 50 90 10 90 0 100 50 100"></polygon>
+                <rect id="Layer-5" x="10" y="10" width="80" height="80"></rect>
+                <rect id="Layer-6" x="10" y="10" width="80" height="20"></rect>
+                <rect id="Layer-7" x="10" y="30" width="80" height="20"></rect>
+                <rect id="Layer-8" x="10" y="50" width="80" height="20"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

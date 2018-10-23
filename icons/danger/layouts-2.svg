@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="76px" viewBox="0 0 104 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>layouts-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ALL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Primary" transform="translate(-3697.000000, -22963.000000)" stroke="#DC3545" stroke-width="3.5">
+            <g id="Group-15" transform="translate(200.000000, 200.000000)">
+                <g id="layouts-2" transform="translate(3549.000000, 22801.000000) rotate(90.000000) translate(-3549.000000, -22801.000000) translate(3513.000000, 22751.000000)">
+                    <rect id="Layer-1" fill="#FFEEEF" x="0" y="0" width="72" height="100" rx="3"></rect>
+                    <path d="M72,80 L0,80 M0,20 L0,20 L72,20" id="Layer-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

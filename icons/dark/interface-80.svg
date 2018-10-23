@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="87px" viewBox="0 0 104 87" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>interface-80</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ALL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" fill-opacity="0" stroke-linejoin="round">
+        <g id="Primary" transform="translate(-4887.000000, -1662.000000)" stroke="#343A40" stroke-width="3.5" fill="#DBECFF">
+            <g id="interface-80" transform="translate(4889.000000, 1664.000000)">
+                <path d="M0,23.6444704 C13.3272868,8.39649181 31.0736988,0 49.9699664,0 C68.866234,0 86.6144857,8.39649181 99.9399327,23.6444704" id="Layer-1"></path>
+                <path d="M11.4942529,35.786126 C33.0857821,11.0828851 68.2161715,11.0870949 89.8040212,35.786126" id="Layer-2"></path>
+                <path d="M21.8390805,49.0816238 C29.3968516,40.4346475 39.4622279,35.6712329 50.1788825,35.6712329 C60.895537,35.6712329 70.9590735,40.4346475 78.5186844,49.0816238" id="Layer-3"></path>
+                <path d="M50.4785789,55.5051119 C42.9299896,55.5051119 36.7878788,61.6914467 36.7878788,69.2964918 C36.7878788,76.9015369 42.9299896,83.0878717 50.4785789,83.0878717 C58.0292581,83.0878717 64.1713689,76.9015369 64.1713689,69.2964918 C64.1713689,61.6914467 58.0292581,55.5051119 50.4785789,55.5051119 L50.4785789,55.5051119 Z" id="Layer-4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

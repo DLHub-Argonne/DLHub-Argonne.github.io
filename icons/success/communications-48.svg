@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="104px" viewBox="0 0 98 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>communications-48</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ALL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Primary" transform="translate(-2435.000000, -10808.000000)" stroke="#28A745" stroke-width="3.5" fill="#D8F8DF">
+            <g id="Group-15" transform="translate(200.000000, 200.000000)">
+                <g id="communications-48" transform="translate(2237.000000, 10610.000000)">
+                    <path d="M94,39.8148148 L94,100 L0,100 L0,39.8148148 L0,35.050993 L42.2782677,1.85549615 C44.8860084,-0.192015615 49.1107991,-0.194522244 51.7217323,1.85549615 L94,35.050993 L94,39.8148148 L94,39.8148148 Z" id="Layer-1"></path>
+                    <polygon id="Layer-2" points="94 100 47 62.2222222 0 100"></polygon>
+                    <polyline id="Layer-3" points="94 35.3193773 53.2934665 67.2808005 47 62.2222222 40.7065335 67.2808005 40.7065335 67.2808005 0 35.3193773"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>baby-23</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ALL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Primary" transform="translate(-208.000000, -20233.000000)" stroke="#DC3545" stroke-width="3.5" fill="#FFEEEF">
+            <g id="Group-15" transform="translate(200.000000, 200.000000)">
+                <g id="baby-23" transform="translate(10.000000, 20035.000000)">
+                    <path d="M88.2352941,45 C88.2352941,69.8528137 68.4831507,90 44.1176471,90 C19.7521434,90 0,69.8528137 0,45 C0,20.1471863 19.7521434,0 44.1176471,0 C47.8791976,0 51.5307968,0.480172645 55.0167434,1.38370259 L39.0184589,45 L88.2352941,45 L88.2352941,45 Z" id="Layer-1"></path>
+                    <path d="M55.0167434,1.38370259 L36.1220565,52.8964936" id="Layer-2"></path>
+                    <path d="M88.2352941,48 L88.2352941,42.4544824 L88.2352941,42.4544824 C88.2352941,38.8897702 91.0722126,36 94.563218,36 L100,36" id="Layer-3"></path>
+                    <ellipse id="Layer-4" cx="18.1372549" cy="91.5" rx="8.33333333" ry="8.5"></ellipse>
+                    <ellipse id="Layer-5" cx="70.0980392" cy="91.5" rx="8.33333333" ry="8.5"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

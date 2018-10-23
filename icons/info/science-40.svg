@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>science-40</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ALL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Primary" transform="translate(-1165.000000, -5681.000000)" stroke="#17A2B8" stroke-width="3.5">
+            <g id="Group-15" transform="translate(200.000000, 200.000000)">
+                <g id="science-40" transform="translate(967.000000, 5483.000000)">
+                    <circle id="Layer-1" fill="#FFFFFF" cx="50" cy="51" r="18"></circle>
+                    <path d="M60.8,51 C60.8,45.0353247 55.9646753,40.2 50,40.2" id="Layer-2"></path>
+                    <circle id="Layer-3" fill="#DBEEF1" cx="11" cy="24" r="11"></circle>
+                    <path d="M16.6,25 C16.6,21.3549207 13.6450793,18.4 10,18.4" id="Layer-4"></path>
+                    <circle id="Layer-5" fill="#DBEEF1" cx="11" cy="75" r="11"></circle>
+                    <path d="M16.6,76 C16.6,72.3549207 13.6450793,69.4 10,69.4" id="Layer-6"></path>
+                    <circle id="Layer-7" fill="#DBEEF1" cx="91" cy="91" r="9"></circle>
+                    <path d="M94.5818182,92.8181818 C94.5818182,89.8358442 92.1641558,87.4181818 89.1818182,87.4181818" id="Layer-8"></path>
+                    <circle id="Layer-9" fill="#DBEEF1" cx="87" cy="13" r="13"></circle>
+                    <path d="M93.8,14 C93.8,9.69217895 90.307821,6.2 86,6.2" id="Layer-10"></path>
+                    <path d="M63,38.2775749 L78.2775749,23" id="Layer-11" fill="#DBEEF1"></path>
+                    <path d="M83.627417,84.627417 L63.8284271,64.8284271" id="Layer-12" fill="#DBEEF1"></path>
+                    <path d="M20,31 L35.5884573,40" id="Layer-13" fill="#DBEEF1"></path>
+                    <path d="M22,71 L35.8564065,63" id="Layer-14" fill="#DBEEF1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

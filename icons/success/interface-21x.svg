@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>interface-21x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ALL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Primary" transform="translate(-525.000000, -198.000000)" stroke="#28A745" stroke-width="3.5">
+            <g id="Group-15" transform="translate(200.000000, 200.000000)">
+                <g id="interface-2" transform="translate(327.000000, 0.000000)">
+                    <path d="M100,10.0000638 C100,4.47718108 95.5252671,0 89.9999362,0 L10.0000638,0 C4.47718108,0 0,4.47473288 0,10.0000638 L0,89.9999362 C0,95.5228189 4.47473288,100 10.0000638,100 L89.9999362,100 C95.5228189,100 100,95.5252671 100,89.9999362 L100,10.0000638 L100,10.0000638 Z" id="Layer-1" fill="#D8F8DF"></path>
+                    <path d="M91,51 C91,39.4020203 81.5935574,30 70.0027442,30 L29.9972558,30 C18.4007916,30 9,39.3994702 9,51 L9,51 C9,62.5979797 18.4064426,72 29.9972558,72 L70.0027442,72 C81.5992084,72 91,62.6005298 91,51 L91,51 L91,51 Z" id="Layer-2"></path>
+                    <path d="M51,51 C51,39.4020203 41.6005298,30 30,30 L30,30 C18.4020203,30 9,39.3994702 9,51 L9,51 C9,62.5979797 18.3994702,72 30,72 L30,72 C41.5979797,72 51,62.6005298 51,51 L51,51 L51,51 Z" id="Layer-3" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

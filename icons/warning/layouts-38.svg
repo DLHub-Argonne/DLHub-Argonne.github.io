@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="84px" viewBox="0 0 104 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>layouts-38</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ALL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Primary" transform="translate(-3697.000000, -23866.000000)" stroke="#FFC107" stroke-width="3.5" fill="#FFF9E6">
+            <g id="Group-15" transform="translate(200.000000, 200.000000)">
+                <g id="layouts-38" transform="translate(3499.000000, 23667.000000)">
+                    <path d="M0,1 L100,1" id="Layer-1"></path>
+                    <path d="M0,81 L100,81" id="Layer-2"></path>
+                    <path d="M20,71 L80,71" id="Layer-3"></path>
+                    <path d="M20,61 L80,61" id="Layer-4"></path>
+                    <path d="M30,51 L70,51" id="Layer-5"></path>
+                    <path d="M10,41 L90,41" id="Layer-6"></path>
+                    <path d="M0,31 L100,31" id="Layer-7"></path>
+                    <path d="M30,21 L70,21" id="Layer-8"></path>
+                    <path d="M10,11 L90,11" id="Layer-9"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
