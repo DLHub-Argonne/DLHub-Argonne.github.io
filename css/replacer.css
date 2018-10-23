@@ -58,6 +58,10 @@ body {
   width: 10%;
 }
 
+code {
+  text-align: left;
+}
+
 .table th,
 .table td {
   padding: 0;
