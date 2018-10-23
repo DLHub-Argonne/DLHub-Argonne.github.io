@@ -1,28 +1,16 @@
-Ripple Documentation
-==================================
+.. DLHub documentation master file, created by
+   sphinx-quickstart on Tue Oct 23 15:14:31 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-
-Contents:
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Overview
-
-   overview/overview.rst
-   overview/quickstart.rst
+Welcome to DLHub's documentation!
+=================================
 
 .. toctree::
-   :maxdepth: 4
-   :caption: User Guide
-
-   usage/usage.rst
+   :maxdepth: 2
+   :caption: Contents:
 
 
-.. toctree::
-   :maxdepth: 3
-   :caption: Roadmap
-
-   roadmap/roadmap.rst
 
 Indices and tables
 ==================
