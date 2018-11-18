@@ -133,14 +133,12 @@
                             <h3 class="h5 mb-2">Describe <span><img src="icons/primary/business-44.svg" class="mb-1" height="32px"> </span></h3>
                             <!-- <p class="text-secondary mx-4 mb-5 lead">Init and describe...</p> -->
 <pre>
-<code class="python" style="font-size:10px; text-align:left"># Describe the keras model
-model = KerasModel.create_model('model.hd5', 
-                                list(map(str, 
-                                range(10))))
-#    Describe the model
-model.set_title("MNIST Digit Classifier")
-model.set_name("mnist_tiny_example")
-model.set_domains(["general","digit recognition"])
+<code class="python" style="font-size:10px; text-align:left">m = KerasModel()
+m.create_model("p1b1-example.h5")
+
+m.set_title("CANDLE Pilot 1 - Benchmark 1")
+m.set_name("candle_p1b1") # short name
+m.set_domains("genomics","biology","HPC")
 </code>
 </pre>
 
@@ -151,7 +149,10 @@ model.set_domains(["general","digit recognition"])
                             <img class="mb-4" src="icons/primary/numbers-2.svg" height="64px">
                             <h3 class="h5 mb-2">Publish <span><img src="icons/primary/science-32.svg" class="mb-1" height="32px"> </span></h3>
                             <!-- <p class="text-secondary mx-4 mb-5 lead">Publish...</p> -->
-                            <pre><code class="" style="font-size:10px; text-align:left">print("hello world") </code></pre>
+                            <pre><code class="" style="font-size:10px; text-align:left">from dlhub_sdk.client import DLHubClient
+
+dl = DLHubClient()
+dl.publish_servable(model)</code></pre>
 
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-12 text-center pt-2">
@@ -159,20 +160,22 @@ model.set_domains(["general","digit recognition"])
                             <h3 class="h5 mb-2">Run <img src="icons/primary/science-6.svg" class="mb-1" height="32px"> </span></h3>
                             <!-- <p class="text-secondary mx-4 mb-5 lead">Run...</p> -->
                             <pre>
-<code class="python"  style="font-size:10px; text-align:left">name = "metallic_glass"  
-id = dl.get_id_by_name(name)
-elems = ["V","Co","Zr"]
+<code class="python"  style="font-size:10px; text-align:left">from dlhub_sdk.client import DLHubClient
 
-result = dl.run(id, {"data":elems})</code>
+dl = DLHubClient()
+
+mid = dl.get_id_by_name("candle_p1b1")
+data = np.load("pilot1.npy") # np array of data
+pred = dl.run(mid, {'data': [data.tolist()]})
+</code>
                             </pre>
-                            <img class="mb-4" src="images/dlhub-ternary.png" height="256px">
                         </div>
                     </div>
                     <div class="row">
                         <div class="col text-center">
                             <a class="btn text-secondary p-4" href="#">
                                 <i class="fa fa-clone mr-2"></i>
-                                <u>See Full Examples</u>
+                                <u><a href="https://github.com/DLHub-Argonne/dlhub_examples">See Full Examples</a></u>
                             </a>
                         </div>
                     </div>
@@ -277,7 +280,7 @@ result = dl.run(id, {"data":elems})</code>
         </div>
         <hr class="m-0"> -->
             <!-- Featured Project Cards -->
-            <div class="py-2 bg-light" id="cards">
+            <!-- <div class="py-2 bg-light" id="cards">
                     <div class="container py-2">
                         <div class="row mt-2">
                             <div class="col text-center">
@@ -383,7 +386,7 @@ result = dl.run(id, {"data":elems})</code>
                     </div>
                     
                 </div>
-            <hr class="mb-4">
+            <hr class="mb-4"> -->
             <!-- End Featured Project Cards -->
             <p class="lead col text-center text-secondary">&copy 2018, Argonne National Laboratory</p>
         </div>
