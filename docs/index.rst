@@ -6,7 +6,7 @@
 Welcome to the documentation for `DLHub <http://www.dlhub.org>`_!
 =================================================================
 
-Please visit our on our `Command Line Interface <https://dlhub-cli.readthedocs.io/en/latest/index.html>`_
+Documentation on our `Command Line Interface <https://dlhub-cli.readthedocs.io/en/latest/index.html>`_
 
 Documentation on our `Software Development Kit <https://dlhub-sdk.readthedocs.io/en/latest/index.html>`_
 
