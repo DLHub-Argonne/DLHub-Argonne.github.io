@@ -10,7 +10,7 @@ Documentation on our `Command Line Interface <https://dlhub-cli.readthedocs.io/e
 
 Documentation on our `Software Development Kit <https://dlhub-sdk.readthedocs.io/en/latest/index.html>`_
 
-To contribute our source code is available on GitHub at: https://github.com/DLHub-Argonne
+Want to contribute? Our source code is available on GitHub at: https://github.com/DLHub-Argonne
 
 .. toctree::
    :maxdepth: 2
