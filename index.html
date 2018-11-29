@@ -166,7 +166,7 @@ dl = DLHubClient()
 
 mid = dl.get_id_by_name("candle_p1b1")
 data = np.load("pilot1.npy")
-pred = dl.run(mid, {'data': [data.tolist()]})
+pred = dl.run(mid, data.tolist())
 </code>
                             </pre>
                         </div>
