@@ -140,9 +140,8 @@ dl.publish_servable(m)</code></pre>
 
 dl = DLHubClient()
 
-mid = dl.get_id_by_name("candle_p1b1")
 data = np.load("pilot1.npy")
-pred = dl.run(mid, data.tolist())
+pred = dl.run("test/candle_p1b1", data)
 </code>
                             </pre>
                         </div>
